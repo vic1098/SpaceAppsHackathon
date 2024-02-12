@@ -3,28 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Level1
-  - Anchor
-  - level+
-  - level_
-  - door
-  - door2
-  - nextLevel
-  - previousLevel
-  - BoundObj
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Planets
+  - 
   - Water
   - UI
-  - XR Rig
-  - Hands
-  - Outside
-  - Post Process
-  - Boundry
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
